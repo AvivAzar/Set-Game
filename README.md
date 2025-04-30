@@ -1,5 +1,14 @@
 # Set-Game
 
+Maven is used as the build tool in this project.
+
+To use, run the following commands when in the 
+project root directory (where the pom.xml file is):
+
+To compile: mvn clean compile test 
+
+To run: java -cp target/classes bguspl.set.Main
+
 ### Rules
 
 The game contains a deck of 81 cards. Each card contains a drawing with four features (color, 
