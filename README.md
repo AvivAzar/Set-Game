@@ -1,6 +1,6 @@
 # Set-Game
 
-Maven is used as the build tool in this project.
+Maven is used as the build tool in this project. You will need to download and install it to compile it.
 
 To use, run the following commands when in the 
 project root directory (where the pom.xml file is):
